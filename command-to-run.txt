@@ -1,1 +1,1 @@
-java -jar -d32 -XstartOnFirstThread InstantAutoComplete.jar "$PWD/src/autoComplete/dictionary4.txt"
+java -jar -d32 -XstartOnFirstThread InstantAutoComplete.jar
